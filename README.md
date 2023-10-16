@@ -1,16 +1,26 @@
 ### Hi there 👋
 
-<!--
-**Yz70599/Yz70599** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+· This is TsubakiDev.
 
-Here are some ideas to get you started:
+## Tech Stack:
+# Backend -->
+![GoLang](https://img.shields.io/badge/golang-gray?style=for-the-badge&logo=go&logoColor=%2300ADD8)
+![Kotlin](https://img.shields.io/badge/Kotlin-gray?style=for-the-badge&logo=kotlin)
+![Rust](https://img.shields.io/badge/rust-gray?style=for-the-badge&logo=rust)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Frontend -->
+![Vue.js](https://img.shields.io/badge/vue.js-gray?style=for-the-badge&logo=vuedotjs)
+![JavaScript](https://img.shields.io/badge/javascript-gray?style=for-the-badge&logo=javascript)
+
+# Scripting -->
+![Lua](https://img.shields.io/badge/lua-gray?style=for-the-badge&logo=lua)
+
+# Database -->
+![MySQL](https://img.shields.io/badge/mysql-gray?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/mongodb-gray?style=for-the-badge&logo=mongodb)
+![Redis](https://img.shields.io/badge/redis-gray?style=for-the-badge&logo=redis)
+![MariaDB](https://img.shields.io/badge/mariadb-gray?style=for-the-badge&logo=mariadb)
+
+# Container -->
+![Docker](https://img.shields.io/badge/docker-gray?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/kubernetes-gray?style=for-the-badge&logo=kubernetes)
