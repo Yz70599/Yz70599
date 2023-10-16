@@ -14,7 +14,7 @@ This is TsubakiDev, currently learning Computer Science.
 ![MariaDB](https://img.shields.io/badge/mariadb-gray?style=for-the-badge&logo=mariadb)
 ![Docker](https://img.shields.io/badge/docker-gray?style=for-the-badge&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-gray?style=for-the-badge&logo=kubernetes)
-<-
+## <-
 
 ## GitHub Stats
 
