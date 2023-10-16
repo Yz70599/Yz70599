@@ -1,8 +1,7 @@
 # Hi there 👋
 
-· This is TsubakiDev.
-
 ## Tech Stack:
+
 ### Backend -->
 ![GoLang](https://img.shields.io/badge/golang-gray?style=for-the-badge&logo=go&logoColor=%2300ADD8)
 ![Kotlin](https://img.shields.io/badge/Kotlin-gray?style=for-the-badge&logo=kotlin)
