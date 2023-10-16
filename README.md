@@ -1,7 +1,7 @@
 # Hi there 👋
+This is TsubakiDev, currently learning Computer Science.
 
-## Tech Stack:
-
+## Tech Stack ->
 ![GoLang](https://img.shields.io/badge/golang-gray?style=for-the-badge&logo=go&logoColor=%2300ADD8)
 ![Kotlin](https://img.shields.io/badge/Kotlin-gray?style=for-the-badge&logo=kotlin)
 ![Rust](https://img.shields.io/badge/rust-gray?style=for-the-badge&logo=rust)
@@ -14,3 +14,7 @@
 ![MariaDB](https://img.shields.io/badge/mariadb-gray?style=for-the-badge&logo=mariadb)
 ![Docker](https://img.shields.io/badge/docker-gray?style=for-the-badge&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-gray?style=for-the-badge&logo=kubernetes)
+<-
+
+## GitHub Stats
+
