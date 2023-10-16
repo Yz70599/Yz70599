@@ -27,4 +27,4 @@ This is TsubakiDev, currently learning Computer Science.
 ![IntelliJ IDEA](https://img.shields.io/badge/intellij%20idea-gray?style=for-the-badge&logo=intellijidea)
 
 ## GitHub Stats
-![Yz70599's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yz70599)]
+![Yz70599's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yz70599)
